@@ -1,2 +1,4 @@
 Olá mundo!
 Willen Duarte
+Vamos aprender fundamentos do git?
+Claro
